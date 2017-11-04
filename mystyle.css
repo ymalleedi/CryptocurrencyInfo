@@ -1,0 +1,21 @@
+.body{
+	abackground-image: url(preview.jpg);
+}
+
+.col-lg-12.text-center h1{
+
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Shadows Into Light', cursive;
+	color: white;
+	stop-color: black;
+	text-shadow: 3px 2px 3px black;
+	background-color:
+
+}
+
+
+.col-lg-12.text-center p{
+	font-size: 20px;
+	font-family: COURIER;
+	color: white;
+	text-shadow: 3px 2px 3px black;
